@@ -21,13 +21,21 @@
 		{
 			Game_LowViolence	csgo_lv // Perfect World content override
 	
-			Game	csgo/cs2m_knife/ct
-			Game	csgo/cs2m_knife/t
+			Game	cs2m
+			Game	cs2m_skins
+			Game	cs2m/cs2m_agent/ct
+			Game	cs2m/cs2m_agent/t
+			Game	cs2m/cs2m_gloves/ct
+			Game	cs2m/cs2m_gloves/t
+			Game	cs2m/cs2m_knife/ct
+			Game	cs2m/cs2m_knife/t
 			Game	csgo
 			Game	csgo_imported
 			Game	csgo_core
 			Game	core
-
+			
+			Mod		cs2m
+			Mod		cs2m_skins
 			Mod		csgo
 			Mod		csgo_imported
 			Mod		csgo_core
